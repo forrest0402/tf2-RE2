@@ -1,0 +1,7 @@
+.idea
+*.pyc
+/data/
+/log
+*.txt
+save_model/
+embedding.msgpack
